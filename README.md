@@ -5,7 +5,7 @@
 > Para rodar esse projeto em sua maquina, por fvor digite:
 >
 > ```
-> mpm install react
+>node app.js
 > ```
 >
 > 
